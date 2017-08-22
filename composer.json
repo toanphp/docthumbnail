@@ -1,0 +1,12 @@
+{
+    "name": "tadangtoan/my_project",
+    "description": "My New Project",
+    "authors": [
+    {
+        "name": "Ta Dang Toan",
+        "email": "admin@tadangtoan.com"
+    }],
+    "require": {
+        "phpoffice/phpword": "v0.13.*"
+    }
+}
